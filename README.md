@@ -86,7 +86,7 @@ No server setup required — it’s a pure client-side project.
 
 ##  License
 
-This project is licensed under the [MIT License](Liscence).
+This project is licensed under the [MIT License](LICENSE).
 
 ##  Author
 
