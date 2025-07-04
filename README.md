@@ -90,7 +90,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ##  Author
 
-**Rishita Verma **
+**Rishita Verma**
 [GitHub Profile](https://github.com/Rishita-112001)
 
 ---
