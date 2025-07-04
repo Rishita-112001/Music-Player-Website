@@ -35,18 +35,23 @@ Whether you're a casual listener or a coding enthusiast looking to learn how to 
 ## 📂 Folder Structure
 
 Music-Player-Website/
+
 │
-├── assets/
+
+
 │ ├── images/
 │ │ └── [Album artworks]
+
 │ ├── music/
 │ │ └── [Audio tracks]
-│ └── fonts/
-│ └── [Optional custom fonts]
+
 │
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
 
 
