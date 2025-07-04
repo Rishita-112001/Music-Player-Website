@@ -40,9 +40,11 @@ Music-Player-Website/
 
 
 │ ├── images/
+
 │ │ └── [Album artworks]
 
 │ ├── music/
+
 │ │ └── [Audio tracks]
 
 │
@@ -82,12 +84,14 @@ No server setup required — it’s a pure client-side project.
 
 ---
 
-## 📄 License
-This project is open-source and available under the MIT License.
+##  License
+
+This project is licensed under the [MIT License](Liscence).
+
+##  Author
+
+**Rishita Verma **
+[GitHub Profile](https://github.com/Rishita-112001)
 
 ---
-
-👤 Author
-Rishita Verma
-GitHub Profile
 
